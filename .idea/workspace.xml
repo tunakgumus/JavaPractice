@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c486341a-7185-4654-a107-5366594a9424" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day03/C01_dikUcgen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day03/C02_bolmeIsaretiKullanmadanBolmeIslemi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/Q01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/Q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/Q03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/Q04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day04/Q05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05/Q1_arraylerinOrtakElemaniniBulma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day05/Q2_arraydakiSayilarinToplami.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day01/c01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day01/c01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02/C_02_SwitchCaseHesapMakinesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02/C_02_SwitchCaseHesapMakinesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day02/c01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day02/c01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,33 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q05">
-    <configuration name="Q01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.Q01" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day04.Q02" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q1_arraylerinOrtakElemaniniBulma">
     <configuration name="Q03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day04.Q03" />
       <module name="practice" />
@@ -114,13 +80,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q1_arraylerinOrtakElemaniniBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05.Q1_arraylerinOrtakElemaniniBulma" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2_arraydakiSayilarinToplami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day05.Q2_arraydakiSayilarinToplami" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1_arraylerinOrtakElemaniniBulma" />
+        <item itemvalue="Application.Q2_arraydakiSayilarinToplami" />
         <item itemvalue="Application.Q05" />
         <item itemvalue="Application.Q04" />
         <item itemvalue="Application.Q03" />
-        <item itemvalue="Application.Q02" />
-        <item itemvalue="Application.Q01" />
       </list>
     </recent_temporary>
   </component>
