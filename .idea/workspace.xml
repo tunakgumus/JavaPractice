@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c486341a-7185-4654-a107-5366594a9424" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day06/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day06/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day07/Q3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,13 +41,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Q4">
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06.Q1" />
+  <component name="RunManager" selected="Application.Day07.Q3">
+    <configuration name="Day07.Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07.Q1" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06.*" />
+          <option name="PATTERN" value="Day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_arraylerinOrtakElemaniniBulma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day05.Q1_arraylerinOrtakElemaniniBulma" />
+    <configuration name="Day07.Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07.Q2" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day05.*" />
+          <option name="PATTERN" value="Day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day06.Q2" />
+    <configuration name="Day07.Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07.Q3" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day06.*" />
+          <option name="PATTERN" value="Day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day07.Q3" />
+        <item itemvalue="Application.Day07.Q2" />
+        <item itemvalue="Application.Day07.Q1" />
         <item itemvalue="Application.Q4" />
         <item itemvalue="Application.Q3" />
-        <item itemvalue="Application.Q2" />
-        <item itemvalue="Application.Q1" />
-        <item itemvalue="Application.Q1_arraylerinOrtakElemaniniBulma" />
       </list>
     </recent_temporary>
   </component>
