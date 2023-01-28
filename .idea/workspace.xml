@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c486341a-7185-4654-a107-5366594a9424" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day09/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day09/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day10/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GrupCalismasi/Q9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,13 +58,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day09.Q1">
-    <configuration name="Day09.Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day09.Q1" />
+  <component name="RunManager" selected="Application.Q2">
+    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day10.Q1" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day09.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +72,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08.Q1" />
+    <configuration name="Q15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GrupCalismasi.Q15" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08.*" />
+          <option name="PATTERN" value="GrupCalismasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GrupCalismasi.Q17" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GrupCalismasi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GrupCalismasi.Q18" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GrupCalismasi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,37 +112,11 @@
       </method>
     </configuration>
     <configuration name="Q2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08.Q2" />
+      <option name="MAIN_CLASS_NAME" value="Day10.Q2" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08.Q3" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day08.Q4" />
-      <module name="practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day08.*" />
+          <option name="PATTERN" value="Day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Day09.Q1" />
-        <item itemvalue="Application.Q4" />
-        <item itemvalue="Application.Q3" />
         <item itemvalue="Application.Q2" />
         <item itemvalue="Application.Q1" />
+        <item itemvalue="Application.Q18" />
+        <item itemvalue="Application.Q17" />
+        <item itemvalue="Application.Q15" />
       </list>
     </recent_temporary>
   </component>
